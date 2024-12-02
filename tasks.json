@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Buy groceries",
+    "description": "Get milk, eggs, and bread",
+    "status": "completed"
+  },
+  {
+    "id": 2,
+    "title": "Buy groceries",
+    "description": "Get milk, eggs, and bread",
+    "status": "pending"
+  }
+]
